@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/HomeFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:icon="@drawable/outline_library_books_24"
+        android:title="ItemReading" />
+    <item
+        android:id="@+id/ItemProfile"
+        android:icon="@drawable/outline_account_box_24"
+        android:title="ItemProfile" />
+</menu>
